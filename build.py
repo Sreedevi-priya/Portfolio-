@@ -4,11 +4,11 @@
 # Step 3: open index.html in your browser
 
 # ---------- 1. YOUR INFO (edit the words inside the quotes) ----------
-name = "Wizzy"
+name = "Sreedevi priya"
 tagline = "Computer science student. AI, robotics and building things."
 intro = "First-year computer science student at BMS College of Engineering, Bengaluru. I love AI and robotics, and I learn by building."
 about = "I tried a few paths before computer science. Robotics pulled me in because it is where code meets the real world. I am building my skills one project at a time."
-discord = "itz_wizzy_"
+discord = "itz_wizzy_."
 
 # ---------- 2. YOUR PAGE ----------
 # This is the web page. The @@WORDS@@ get replaced by your info above.
